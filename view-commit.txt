@@ -1,0 +1,14 @@
+* d1f6a1c (HEAD -> develop, origin/develop) added requirement text file back
+* e132f26 renaming files usingn git mv
+*   b4c5d3b (origin/main, main) Merge branch 'develop'
+|\  
+| * e35c502 new txt file added
+* | 1f313a0 changes to python file
+|/  
+* aca4185 modified main.py
+*   aefd97f Merge branch 'main' of https://github.com/say2nj/git-practice-remote
+|\  
+| * 9f2f898 updated README file
+* | 21bb0bd adding python file
+|/  
+* 1b377ff adding README file

@@ -1,0 +1,4 @@
+requirements.txt
+*.bak
+logfile.txt
+__pycache__/
