@@ -33,3 +33,25 @@
 * | 21bb0bd adding python file
 |/  
 * 1b377ff adding README file
+* dd570ce (HEAD -> test, origin/test, origin/main, main) updated commit file
+* 41ff2de added log file
+* e746958 (origin/develop, develop) updating repo after comparing section
+* 6766a6d adding introduction
+* 6321bbe adding description
+* a9770dc adding new section: deployment
+* 3aa8bef modified README file
+* 1eca8a9 ignoring unwanted files and folders
+* d1f6a1c added requirement text file back
+* e132f26 renaming files usingn git mv
+*   b4c5d3b Merge branch 'develop'
+|\  
+| * e35c502 new txt file added
+* | 1f313a0 changes to python file
+|/  
+* aca4185 modified main.py
+*   aefd97f Merge branch 'main' of https://github.com/say2nj/git-practice-remote
+|\  
+| * 9f2f898 updated README file
+* | 21bb0bd adding python file
+|/  
+* 1b377ff adding README file
