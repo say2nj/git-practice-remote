@@ -5,7 +5,7 @@ var2 = sys.argv[2]
 
 def main():
     if var1:
-        print('Hello World')
+        print('Hello World!')
     else:
         print('No Way Here')
 
