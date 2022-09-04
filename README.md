@@ -11,6 +11,9 @@ This is example to show different parts of Git repository and various commands u
 
 As stated above, the main purpose is to provide simple examples for Git training.
 
+## Release
+1.1 to 1.2
+
 ## Deployment
 
 No such deployment step is required, as its a dummy project.
