@@ -5,7 +5,7 @@ var1 = sys.argv[2]
 
 
 def main():
-    if var0:
-        print('Hello World, is it fine now?')
+    for i in range(var0):
+        print(i)
 
 main()
