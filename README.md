@@ -15,3 +15,9 @@ As stated above, the main purpose is to provide simple examples for Git training
 No such deployment step is required, as its a dummy project.
 
 ## How To Contribute
+
+Please fork the repository and then issue Pull Requests.
+
+### Copyright
+
+2014 Git.Training. All rights reserved.
